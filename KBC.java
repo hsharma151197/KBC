@@ -13,9 +13,7 @@ public class KBC {
 		System.out.println("2. Flip");
 		System.out.println("3. Fifty-Fifty");
 		System.out.println("4. Expert Advice");
-		System.out.println("");
-		String Answer = scanner.next();
+		System.out.println("You can use each lifeline only once");
 		
 	}
-
 }
